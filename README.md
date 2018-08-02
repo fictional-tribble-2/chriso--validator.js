@@ -1,5 +1,7 @@
 # validator.js
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/chriso--validator.js.svg)](https://www.staging.guardrails.io)
+
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Downloads][downloads-image]][npm-url]
 
 A library of string validators and sanitizers.
