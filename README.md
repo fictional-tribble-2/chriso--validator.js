@@ -1,6 +1,6 @@
 # validator.js
 
-[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/chriso--validator.js.svg)](https://www.staging.guardrails.io)
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/chriso--validator.js.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/chriso--validator.js.svg)](https://www.guardrails.io)
 
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Downloads][downloads-image]][npm-url]
 
